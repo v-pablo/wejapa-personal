@@ -1,0 +1,124 @@
+.pd-l-plate {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+}
+plate::before {
+    content: " ";
+    display: table;
+}
+.pd-bts-higher-education-202006 .pd-billboard-info {
+    padding: 84px 0px 34px;
+    text-align: center;
+}
+.pd-bts-higher-education-202006 .header {
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: 0.009em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.pd-bts-higher-education-202006 .subhead {
+    margin: 6px 0px 13px;
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 600;
+    letter-spacing: 0px;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.pd-bts-higher-education-202006 .pd-billboard-link, .pd-bts-higher-education-202006 .pd-billboard-subcopy {
+    margin: 0px 0px 9px;
+    font-size: 21px;
+    line-height: 1.381;
+    font-weight: 400;
+    letter-spacing: 0.011em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.pd-bts-higher-education-202006 .pd-billboard-link, .pd-bts-higher-education-202006 .pd-billboard-subcopy {
+    margin: 0px 0px 9px;
+    font-size: 21px;
+    line-height: 1.381;
+    font-weight: 400;
+    letter-spacing: 0.011em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.sidebar{
+    width: 100%;
+    overflow: hidden;
+    display: block;
+}
+
+.sidebar-table{
+    width: 1057px;
+    margin: auto;
+}
+
+.sidebar-row{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+}
+
+.sidebar-prop{
+    text-align: center;
+    flex-basis: 33.33333%;
+    max-width: 33.33333%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    min-width: 0
+}
+
+.sidebar-prop1{
+    padding: 0 12px;
+}
+
+.sidebar-prop-content{
+    padding: 31px 0 94px;
+}
+
+.sidebar-prop-image{
+    height: 80px;
+}
+
+.sidebar-compare{
+    margin-left: 1px;
+    margin-top: 10px;
+    width: 111px;
+    height: 64px;
+    border: 0;
+}
+
+.sidebar-prop-info{
+    display: block;
+}
+
+.sidebar-copy{
+    padding: 15px 0 0;
+    color: #1d1d1f;
+    font-size: 21px;
+    line-height: 1.381;
+    font-weight: 400;
+    letter-spacing: .011em;
+}
+
+.sidebar-util{
+        margin-left: -10%;
+        margin-right: -10%;
+}
+
+.sidebar-link{
+    margin-top: 12px;
+    color: #1d1d1f;
+    font-size: 21px;
+    line-height: 1.381;
+    font-weight: 400;
+    letter-spacing: .011em;
+}
+
+.sidebar-prop-link{
+    text-decoration: none;
+    color: #0070c9;
+}
